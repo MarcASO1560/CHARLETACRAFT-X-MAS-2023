@@ -21,7 +21,6 @@ Prepare to be captivated by an eclectic array of structures and natural wonders.
 ![CharletaCraft2](img/captura(5).png)
 ![CharletaCraft2](img/captura(6).png)
 ![CharletaCraft2](img/captura(7).png)
-![CharletaCraft2](img/captura(8).png)
 
 This map represents a pinnacle of my work, skillfully balancing stability and maintaining the essence of playability. Explore and enjoy these marvels in a world crafted with precision and care.
 
