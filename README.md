@@ -20,7 +20,7 @@ Prepare to be captivated by an eclectic array of structures and natural wonders.
 This map represents a pinnacle of my work, skillfully balancing stability and maintaining the essence of playability. Explore and enjoy these marvels in a world crafted with precision and care.
 
 ## ⭐ Mods & game instalation guide:
-## 1. Game instalation:
+### 1. Game instalation:
 
 To correctly install the game, first you need to buy Minecraft, since this server a **premium** server so if you have not bought the game but you wish to, [I will leave the link for its purchase.](https://www.minecraft.net/es-es/store/minecraft-deluxe-collection-pc)
 
@@ -31,10 +31,6 @@ Once we have installed the game's launcher, it will look like the following imag
 </p>
 
 We have to start by selecting the game version that we will modify, to do so we choose the **Instalations** (Instalaciones in the image) tab and create a new installation:
-
-<p align="center">
-  <img width="800" height="600" src="img/tutorial/Instalaciones.png">
-</p>
 
 Inside the configuration of the new installation you should see the following information:
 
@@ -48,15 +44,10 @@ Once we have created it, you can go back to the main tab and start the game with
   <img width="800" height="600" src="img/tutorial/InicioJuego.png">
 </p>
 
-Now all that we need to do is, open the game once and try it. So, start the game and create a new world:
-
-<p align="center">
-  <img width="600" height="400" src="img/tutorial/JuegoNormal.png">
-</p>
-
+Now all that we need to do is, open the game once and try it. So, start the game and create a new world.
 Once we have checked that everything is in order and that the games works correctly, we will instal the mods.
 
-## 2. Java installation:
+### 2. Java installation:
 
 To better help the file's organitzation, here is [a drive link with different folders](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) that should look like this:
 
