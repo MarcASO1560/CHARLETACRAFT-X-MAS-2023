@@ -1,8 +1,8 @@
 ![CharletaCraft2](img/charletaTitle.png)
 ## About the game:
-Welcome to the second edition of charletacraft's hardocore server. During the following days you will enjoy one of the best survival experiences ever made in this server saga.
+Welcome to the thrilling second edition of Charletacraft's Hardcore Server! In the coming days, you're set to embark on an unparalleled survival adventure, a standout journey in our server saga.
 
-The premise is simple, if you die you will only be able to re-enter as a spectator and never play again.
+Here's the catch: death is final. Should you perish, your journey ends, relegating you to a spectator, never to rejoin the fray.
 
-It is important to note that the game will be quite difficult. It is advisable to go in small groups in terms of exploration. Additionally, this time, you will have a total of 30 hearts available. My personal recommendation is that don't trust yourself...
+Be prepared: the challenge is formidable. Navigating in small teams is wise, especially during explorations. Excitingly, this edition features an expanded health pool with 30 hearts. A word of caution: overconfidence can be your downfall. Stay sharp, stay alive!
 ![CharletaCraft2](img/capturaHUD.png)
