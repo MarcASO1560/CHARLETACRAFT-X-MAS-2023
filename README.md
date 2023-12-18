@@ -5,4 +5,5 @@ Welcome to the thrilling second edition of Charletacraft's Hardcore Server! In t
 Here's the catch: death is final. Should you perish, your journey ends, relegating you to a spectator, never to rejoin the fray.
 
 Be prepared: the challenge is formidable. Navigating in small teams is wise, especially during explorations. Excitingly, this edition features an expanded health pool with 30 hearts. A word of caution: overconfidence can be your downfall. Stay sharp, stay alive!
+
 ![CharletaCraft2](img/capturaHUD.png)
