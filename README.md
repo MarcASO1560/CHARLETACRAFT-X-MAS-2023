@@ -76,7 +76,7 @@ By this point, you will have to install, from the Drive folder, the [mods](https
   <img width="600" height="550" src="img/tutorial/puntomine.png">
 </p>
 
--Inside that folder, we will find a folder named **mods**, if it does not exist, you will have to create a folder named **mods**:
+- Inside that folder, we will find a folder named **mods**, if it does not exist, you will have to create a folder named **mods**:
 
 <p align="center">
   <img width="600" height="550" src="img/tutorial/mods.png">
