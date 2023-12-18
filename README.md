@@ -30,7 +30,7 @@ Once we have installed the game's launcher, it will look like the following imag
   <img width="800" height="600" src="img/tutorial/launcher.png">
 </p>
 
-We have to start by selecting the game version that we will modify, to do so we choose the **Instalations** (Instalaciones in the image) tab and create a new installation. Inside the configuration of the new installation you should see the following information:
+We have to start by selecting the game version that we will modify, to do so we choose the **Instalations** tab and create a new installation. Inside the configuration of the new installation you should see the following information:
 
 You need to select the version 1.20.1 of the game.
 <p align="center">
