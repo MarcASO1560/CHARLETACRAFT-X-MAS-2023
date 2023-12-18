@@ -1,5 +1,5 @@
 ![CharletaCraft2](img/charletaTitle.png)
----
+## About the game:
 Welcome to the second edition of charletacraft's hardocore server. During the following days you will enjoy one of the best survival experiences ever made in this server saga.
 
 The premise is simple, if you die you will only be able to re-enter as a spectator and never play again.
