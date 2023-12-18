@@ -61,7 +61,7 @@ To install **Forge** we will go to the Drive folder that is named [Forge](https:
 
 We click **OK** and it should install itself into the folder where **Minecraft** is installed.
 
-## 4. Mods Installation for the server:
+### 4. Mods Installation for the server:
 
 By this point, you will have to install, from the Drive folder, the [mods](https://drive.google.com/drive/folders/1zxdvSaePYwKg1KBMIgJeHxxiiT1dLvw0?usp=sharing) folder somewhere we can easily find it, be it the desktop, an empty folder... Now, we will look for the directory where we will find all the game files. To do so we will do the following:
 - First, press the command **Win + R** and type **%appdata%**:
@@ -90,17 +90,9 @@ By this point, you will have to install, from the Drive folder, the [mods](https
 
 ## 5. Minecraft configuration:
 
-Now that everything is set, we can re-open **Minecraft Launcher**:
+Now that everything is set, we can re-open **Minecraft Launcher**.
 
-<p align="center">
-  <img width="800" height="650" src="img/tutorial/launcher5.png">
-</p>
-
-But before that, we have to make a few adjustments to **Forge** so that it can launch with more thant 2GB of RAM (the minimum required is 4GB). Consequently, we will go to de **Instalations** (Instalaciones) tab, we click on edit the instalation with **Forge**'s symbol:
-
-<p align="center">
-  <img width="800" height="650" src="img/tutorial/editarForge.png">
-</p>
+But before that, we have to make a few adjustments to **Forge** so that it can launch with more thant 2GB of RAM (the minimum required is 4GB). Consequently, we will go to de **Instalations** (Instalaciones) tab, we click on edit the instalation with **Forge**'s symbol.
 
 - We change the **JVM Arguments** (Argumentos JVM) with the following argument:
 ```
@@ -108,5 +100,4 @@ But before that, we have to make a few adjustments to **Forge** so that it can l
 ```
 
 ---
-
 ### And with that the instalation guide is over, enjoy the server :)
