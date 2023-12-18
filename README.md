@@ -14,14 +14,14 @@ This server's map may not boast the largest scale in terms of admin-crafted expa
 
 Prepare to be captivated by an eclectic array of structures and natural wonders. From sprawling underground rivers stretching kilometers in length to towering mountains that soar over 270 blocks high, each element has been meticulously designed.
 
-![CharletaCraft2](img/captura (1).png)
-![CharletaCraft2](img/captura (2).png)
-![CharletaCraft2](img/captura (3).png)
-![CharletaCraft2](img/captura (4).png)
-![CharletaCraft2](img/captura (5).png)
-![CharletaCraft2](img/captura (6).png)
-![CharletaCraft2](img/captura (7).png)
-![CharletaCraft2](img/captura (8).png)
+![CharletaCraft2](img/captura_(1).png)
+![CharletaCraft2](img/captura_(2).png)
+![CharletaCraft2](img/captura_(3).png)
+![CharletaCraft2](img/captura_(4).png)
+![CharletaCraft2](img/captura_(5).png)
+![CharletaCraft2](img/captura_(6).png)
+![CharletaCraft2](img/captura_(7).png)
+![CharletaCraft2](img/captura_(8).png)
 
 This map represents a pinnacle of my work, skillfully balancing stability and maintaining the essence of playability. Explore and enjoy these marvels in a world crafted with precision and care.
 
