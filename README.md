@@ -50,33 +50,20 @@ To better help the file's organitzation, here is [a drive link with different fo
   <img width="400" height="200" src="img/tutorial/javaVersions.png">
 </p>
 
-- To begin with, let us install **JDK**. So, execute the file and install it like any other software:
-
-<p align="center">
-  <img width="600" height="500" src="img/tutorial/Java19.png">
-</p>
-
-- Then, just to make sure, we repeat the process with **Java 8** and we install it:
-
-<p align="center">
-  <img width="800" height="450" src="img/tutorial/Java8.png">
-</p>
+- To begin with, let us install **JDK**. So, execute the file and install it like any other software.
+- Then, just to make sure, we repeat the process with **Java 8** and we install it.
 
 From now on, it can prove beneficial to restart the computer, we strongly recommend it.
 
-## 3. Forge instalation:
+### 3. Forge instalation:
 
 To install **Forge** we will go to the Drive folder that is named [Forge](https://drive.google.com/drive/folders/1zxdvSaePYwKg1KBMIgJeHxxiiT1dLvw0?usp=sharing) and we will install it in the computer. (Friendly reminder that we must execute it, we do not put it inside any folder)
-
-<p align="center">
-  <img width="450" height="450" src="img/tutorial/Forge.png">
-</p>
 
 We click **OK** and it should install itself into the folder where **Minecraft** is installed.
 
 ## 4. Mods Installation for the server:
 
-By this point, you will have to install, from the Drive folder, the [mods](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) folder somewhere we can easily find it, be it the desktop, an empty folder... Now, we will look for the directory where we will find all the game files. To do so we will do the following:
+By this point, you will have to install, from the Drive folder, the [mods](https://drive.google.com/drive/folders/1zxdvSaePYwKg1KBMIgJeHxxiiT1dLvw0?usp=sharing) folder somewhere we can easily find it, be it the desktop, an empty folder... Now, we will look for the directory where we will find all the game files. To do so we will do the following:
 - First, press the command **Win + R** and type **%appdata%**:
 
 <p align="center">
